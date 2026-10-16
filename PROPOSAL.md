@@ -202,11 +202,11 @@ The final delivery includes:
 
 ### GitHub Repository
 
-\[GitHub Repository URL\]
+https://github.com/hudaelkahlout/market-intelligence-tool.git
 
 ### Live Streamlit Demo
 
-\[Live Streamlit Demo URL\]
+https://market-intelligence-toolgit-ep4ieqzxjeh67ra9ew3qtd.streamlit.app/
 
 Replace these placeholders with the final URLs after publishing the
 repository and deploying the application.
