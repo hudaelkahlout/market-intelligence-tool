@@ -2,7 +2,7 @@
 
 ## Google Play Market Intelligence & Competitor Analysis Tool
 
-**Prepared by:** Mahmoud Alshukri\
+**Prepared by:** Huda Elkahlout\
 **Project:** Market Intelligence & Competitor Scraping Tool
 
 ------------------------------------------------------------------------
